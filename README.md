@@ -4,3 +4,5 @@ This script is a very simple generator of difficult passwords, I have not done m
 - in a few days I was thinking of adding various options such as the options create passwords only characters or only numbers, although I would have to change everything a bit by adding a class for the characters or just doing an is_number check etc. I will update you in the future!
 
 - if someone comes up with some nice ideas to add, write them to me
+
+- the generated passwords can be saved in either an existing file or a non-existing file
